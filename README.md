@@ -56,7 +56,8 @@ Apos ter migrado de *banco*, não foi mais necessária a exclusão de capas, por
 ![3 2º Converter](https://github.com/amancio10/Renomear-boletos/assets/48102777/a30c0800-0b8a-46a2-a018-562d5242a809)
 
 
-Agora que convertemos os arquivos para .TXT podemos extrat os dados deles.
+Agora que convertemos os arquivos para .TXT podemos extrair os dados deles. </br>
+Respeitando a posição inicial do bloco de notas como 1 (um) e dos códigos como 0 (zero).
 
 ![Identificador dos campos](https://github.com/amancio10/Renomear-boletos/assets/48102777/44372285-de6f-4a81-b1ab-42e19bb15897)
 
